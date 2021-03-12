@@ -1,7 +1,6 @@
 ---
 layout: Page
-title: about
-title : Third
+title: About
 ---
 
 
